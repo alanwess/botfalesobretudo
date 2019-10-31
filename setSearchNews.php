@@ -4,7 +4,7 @@
 	include("class/class_SearchNews.php");
 
 	$url = "https://trends24.in/brazil/";
-	$apikey = 'c58e9513e20f491999713c324f32fdd4'; //'8fa76b2a89bb426780fdcfc1e129dac4';
+	$apikey = 'c58e9513efdgtfdgfdgg13c324f32fdd4'; //'8fa76b2a8sdasdasfsdfcfc1e129dac4';
 
 	function setSearchNews($apikey, $query){
 
