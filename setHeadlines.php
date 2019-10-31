@@ -2,7 +2,7 @@
 	
 	include("class/class_newsHeadlines.php");
 
-	$apikey = 'c58e9513e20f491999713c324f32fdd4'; //'8fa76b2a89bb426780fdcfc1e129dac4';
+	$apikey = 'c58e9513e20f491999713tgrsfddsfd4'; //'8fa76sdfdsfsdfsdfcfc1e129dac4';
 
 	function setHeadlines($apikey){
 		
